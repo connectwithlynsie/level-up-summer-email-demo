@@ -1,8 +1,7 @@
 # 🌞 Level Up Summer Sale - HTML Email
+A custom-built HTML email crafted for visual punch and clean performance. Hand-coded by me, Lynsie Samani — no builders, no frameworks, just well-structured HTML + CSS.
 
-Clean, responsive HTML email built with custom code – no frameworks, no fluff. Just HTML + CSS.  
-
-Designed, built, and tested by me (Lynsie Samani) to showcase layout, spacing, structure, and responsive formatting.
+This layout was made to show how I approach hierarchy, spacing, and mobile responsiveness in email. Great for campaigns that need clarity and conversion.
 
 ---
 
