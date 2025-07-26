@@ -7,10 +7,10 @@ Designed, built, and tested by me (Lynsie Samani) to showcase layout, spacing, s
 ---
 
 ### 🔗 View the Rendered Email  
-<a href="https://raw.githubusercontent.com/connectwithlynsie/levelUpSummerSale/main/levelUpSummerSale.html" target="_blank" rel="noopener noreferrer">Click to View Full HTML Email</a>
+<a href="https://raw.githubusercontent.com/connectwithlynsie/level-up-summer-email-demo/main/levelUpSummerSale.html" target="_blank" rel="noopener noreferrer">Click to View Full HTML Email</a>
 
 ### 💾 View the Code on GitHub  
-<a href="https://github.com/connectwithlynsie/levelUpSummerSale" target="_blank" rel="noopener noreferrer">Open Repo</a>
+<a href="https://github.com/connectwithlynsie/level-up-summer-email-demo" target="_blank" rel="noopener noreferrer">Open Repo</a>
 
 ---
 
